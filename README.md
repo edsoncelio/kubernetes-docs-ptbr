@@ -31,7 +31,6 @@
 ## Passo a passo
 1. Escolher página para traduzir
 2. Atribuir na planilha com o seu usuário do github
-3. ~Comentar na issue de tracking~
 4. Fazer o fork do projeto
 5. Criar a branch para tradução e traduzir
 6. (opcional) build e teste na máquina local
@@ -42,20 +41,17 @@
 
 ## Links importantes
 
-1. Planilha usada para rastreio das páginas e traduções:
+1. Planilha usada para rastreio das páginas e traduções:   
 https://docs.google.com/spreadsheets/d/1HiaVFJ7nRZo1MPNNYyq1u-L_N9xrJvzuUzkZ3GuJGNU/edit#gid=1462985556
 
 2. Guia de contribuição:
 https://github.com/kubernetes/community/blob/master/contributors/guide/contributor-cheatsheet/README-pt.md
 
-3. Guia de como usar o repositório de documentação (como clonar, executar...):
+3. Guia de como usar o repositório de documentação (como clonar, executar...):   
 https://github.com/kubernetes/website/blob/main/README-pt.md
 
-4. Guia de estilo para tradução/criação da documentação (atualmente, sem tradução):
+4. Guia de estilo para tradução/criação da documentação (atualmente, sem tradução):    
 https://kubernetes.io/docs/contribute/style/style-guide/
-
-5. Issue de tracking: 
-https://github.com/kubernetes/website/issues/13939
 
 ## Outras perguntas
 
