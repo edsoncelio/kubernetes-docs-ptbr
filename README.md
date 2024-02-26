@@ -1,7 +1,7 @@
 ## Informações gerais
 * Website: https://kubernetes.io/docs
 * Repositório: [kubernetes/website](https://github.com/kubernetes/website)
-* Tipos de contribuição: https://github.com/kubernetes/community/blob/master/community-membership.md
+* Papéis dentro da comunidade: https://github.com/kubernetes/community/blob/master/community-membership.md
 * Orientações sobre abertura de PR: https://kubernetes.io/docs/contribute/new-content/open-a-pr/
 * Guia geral sobre contribuições (em inglês): https://www.kubernetes.dev/docs/contributor-cheatsheet/
 * A documentaçãoé escrita em markdown (`.md`) e o build feito com [GoHugo](https://gohugo.io/)
@@ -42,16 +42,16 @@
 ## Links importantes
 
 1. Planilha usada para rastreio das páginas e traduções:   
-https://docs.google.com/spreadsheets/d/1HiaVFJ7nRZo1MPNNYyq1u-L_N9xrJvzuUzkZ3GuJGNU/edit#gid=1462985556
+[https://docs.google.com/spreadsheets/d/1HiaVFJ7nRZo1MPNNYyq1u-L_N9xrJvzuUzkZ3GuJGNU/edit#gid=1462985556](https://docs.google.com/spreadsheets/d/1HiaVFJ7nRZo1MPNNYyq1u-L_N9xrJvzuUzkZ3GuJGNU/edit#gid=1462985556)
 
 2. Guia de contribuição:
-https://github.com/kubernetes/community/blob/master/contributors/guide/contributor-cheatsheet/README-pt.md
+[https://github.com/kubernetes/community/blob/master/contributors/guide/contributor-cheatsheet/README-pt.md](https://github.com/kubernetes/community/blob/master/contributors/guide/contributor-cheatsheet/README-pt.md)
 
 3. Guia de como usar o repositório de documentação (como clonar, executar...):   
-https://github.com/kubernetes/website/blob/main/README-pt.md
+[https://github.com/kubernetes/website/blob/main/README-pt.md](https://github.com/kubernetes/website/blob/main/README-pt.md)
 
 4. Guia de estilo para tradução/criação da documentação (atualmente, sem tradução):    
-https://kubernetes.io/docs/contribute/style/style-guide/
+[https://kubernetes.io/docs/contribute/style/style-guide/](https://kubernetes.io/docs/contribute/style/style-guide/)
 
 ## Outras perguntas
 
